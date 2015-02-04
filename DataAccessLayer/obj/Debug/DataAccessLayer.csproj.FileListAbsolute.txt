@@ -1,0 +1,75 @@
+E:\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\NewGMS\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\NewGMS-from  home\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\NewGMS-from  home\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\NewGMS-from  home\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\NewGMS-from  home\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\NewGMS-from  home\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\NewGMSCopy\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\NewGMSCopy\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\NewGMSCopy\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\NewGMSCopy\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\NewGMSCopy\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\NewGMSCopy\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\NewGMSCopy\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\NewGMSCopy\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\NewGMSCopy\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\NewGMSCopy\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Projects\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\NewGMS\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Projects\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+G:\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+G:\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+G:\NewGMS\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+G:\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Project_NewPhase - From Sir\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Project_NewPhase - From Sir\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Project_NewPhase - From Sir\NewGMS\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Project_NewPhase - From Sir\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Project_NewPhase - From Sir\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\NewGMS\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\current\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\current\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\current\NewGMS\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\current\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\current\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\v6\NewGMS-Tusha\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\v6\NewGMS-Tusha\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\v6\NewGMS-Tusha\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\v6\NewGMS-Tusha\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\v6\NewGMS-Tusha\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\correct\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\correct\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\correct\NewGMS\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\correct\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\correct\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\VeryNewProject\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\VeryNewProject\NewGMS\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\VeryNewProject\NewGMS\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\VeryNewProject\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\VeryNewProject\NewGMS\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\newgmsJune30\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\newgmsJune30\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\newgmsJune30\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\newgmsJune30\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\newgmsJune30\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+Z:\Aug01\newgms\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+Z:\Aug01\newgms\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+Z:\Aug01\newgms\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+Z:\Aug01\newgms\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+Z:\Aug01\newgms\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\v6\newgms\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\v6\newgms\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\v6\newgms\DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\v6\newgms\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\v6\newgms\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

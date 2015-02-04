@@ -1,0 +1,105 @@
+E:\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\NewGMS\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\NewGMS-from  home\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\NewGMS-from  home\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\NewGMS-from  home\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\NewGMS-from  home\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\NewGMS-from  home\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\NewGMS-from  home\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\NewGMS-from  home\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\NewGMSCopy\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\NewGMSCopy\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\NewGMSCopy\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\NewGMSCopy\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\NewGMSCopy\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\NewGMSCopy\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\NewGMSCopy\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\NewGMSCopy\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\NewGMSCopy\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\NewGMSCopy\BussinessLayer\bin\Debug\DataAccessLayer.dll
+D:\NewGMSCopy\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\NewGMSCopy\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\NewGMSCopy\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\NewGMSCopy\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\Projects\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\Projects\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\Projects\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Projects\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Projects\NewGMS\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\Projects\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.pdb
+G:\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.dll
+G:\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.pdb
+G:\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.dll
+G:\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+G:\NewGMS\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+G:\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.dll
+G:\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\Project_NewPhase - From Sir\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\Project_NewPhase - From Sir\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\Project_NewPhase - From Sir\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\Project_NewPhase - From Sir\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Project_NewPhase - From Sir\NewGMS\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\Project_NewPhase - From Sir\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\Project_NewPhase - From Sir\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.dll
+D:\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\NewGMS\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\current\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\current\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\current\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.dll
+D:\current\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\current\NewGMS\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\current\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\current\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\v6\NewGMS-Tusha\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\v6\NewGMS-Tusha\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\v6\NewGMS-Tusha\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\v6\NewGMS-Tusha\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\v6\NewGMS-Tusha\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\v6\NewGMS-Tusha\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\v6\NewGMS-Tusha\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\correct\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\correct\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\correct\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.dll
+D:\correct\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\correct\NewGMS\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\correct\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\correct\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\VeryNewProject\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\VeryNewProject\NewGMS\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\VeryNewProject\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.dll
+D:\VeryNewProject\NewGMS\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\VeryNewProject\NewGMS\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\VeryNewProject\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\VeryNewProject\NewGMS\BussinessLayer\obj\Debug\BussinessLayer.pdb
+D:\newgmsJune30\BussinessLayer\bin\Debug\BussinessLayer.dll
+D:\newgmsJune30\BussinessLayer\bin\Debug\BussinessLayer.pdb
+D:\newgmsJune30\BussinessLayer\bin\Debug\DataAccessLayer.dll
+D:\newgmsJune30\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\newgmsJune30\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+D:\newgmsJune30\BussinessLayer\obj\Debug\BussinessLayer.dll
+D:\newgmsJune30\BussinessLayer\obj\Debug\BussinessLayer.pdb
+Z:\Aug01\newgms\BussinessLayer\bin\Debug\BussinessLayer.dll
+Z:\Aug01\newgms\BussinessLayer\bin\Debug\BussinessLayer.pdb
+Z:\Aug01\newgms\BussinessLayer\bin\Debug\DataAccessLayer.dll
+Z:\Aug01\newgms\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+Z:\Aug01\newgms\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+Z:\Aug01\newgms\BussinessLayer\obj\Debug\BussinessLayer.dll
+Z:\Aug01\newgms\BussinessLayer\obj\Debug\BussinessLayer.pdb
+E:\v6\newgms\BussinessLayer\bin\Debug\BussinessLayer.dll
+E:\v6\newgms\BussinessLayer\bin\Debug\BussinessLayer.pdb
+E:\v6\newgms\BussinessLayer\bin\Debug\DataAccessLayer.dll
+E:\v6\newgms\BussinessLayer\bin\Debug\DataAccessLayer.pdb
+E:\v6\newgms\BussinessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\v6\newgms\BussinessLayer\obj\Debug\BussinessLayer.dll
+E:\v6\newgms\BussinessLayer\obj\Debug\BussinessLayer.pdb
